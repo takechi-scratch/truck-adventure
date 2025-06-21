@@ -1,0 +1,6 @@
+Flask
+Gunicorn
+Requests
+flask-httpauth
+flask_socketio
+Flask-Sockets
